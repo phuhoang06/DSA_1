@@ -1,3 +1,5 @@
+package TH_DSA;
+
 public class MyLinkedListTest {
     public static void main(String[] args) {
         System.out.println("/=/=/=/= TESTING /=/=/=/=");
